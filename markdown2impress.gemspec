@@ -20,5 +20,5 @@ Gem::Specification.new do |gem|
   gem.add_runtime_dependency("nokogiri", "~> 1.6")
   gem.add_runtime_dependency("eventmachine", "~> 1.0")
   gem.add_runtime_dependency("redcarpet", "~> 3.2")
-  gem.add_runtime_dependency("pygments.rb", "~> 0.6")
+  gem.add_runtime_dependency("pygments.rb", "~> 1.0")
 end
